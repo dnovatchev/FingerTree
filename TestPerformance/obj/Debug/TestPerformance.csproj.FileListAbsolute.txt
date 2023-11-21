@@ -1,0 +1,9 @@
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\bin\Debug\TestPerformance.exe
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\bin\Debug\TestPerformance.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\bin\Debug\FingerTree.dll
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\bin\Debug\FingerTree.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\obj\Debug\TestPerformance.csproj.AssemblyReference.cache
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\obj\Debug\TestPerformance.csproj.CoreCompileInputs.cache
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\obj\Debug\TestPerformance.csproj.CopyComplete
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\obj\Debug\TestPerformance.exe
+C:\CSharp-Projects\FingerTree\Backup1\TestPerformance\obj\Debug\TestPerformance.pdb

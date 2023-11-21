@@ -1,0 +1,9 @@
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\bin\Debug\FNSeq.dll
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\bin\Debug\FNSeq.pdb
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\bin\Debug\FingerTree.dll
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\bin\Debug\FingerTree.pdb
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\obj\Debug\FNSeq.csproj.AssemblyReference.cache
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\obj\Debug\FNSeq.csproj.CoreCompileInputs.cache
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\obj\Debug\FNSeq.csproj.CopyComplete
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\obj\Debug\FNSeq.dll
+C:\CSharp-Projects\FingerTree\Backup1\FNSeq\obj\Debug\FNSeq.pdb

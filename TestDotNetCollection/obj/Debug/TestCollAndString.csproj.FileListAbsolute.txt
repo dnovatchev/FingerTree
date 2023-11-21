@@ -1,0 +1,11 @@
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\bin\Debug\TestDotNetCollection.exe
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\bin\Debug\TestDotNetCollection.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\bin\Debug\FingerTree.dll
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\bin\Debug\FNSeq.dll
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\bin\Debug\FingerTree.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\bin\Debug\FNSeq.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\obj\Debug\TestCollAndString.csproj.AssemblyReference.cache
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\obj\Debug\TestCollAndString.csproj.CoreCompileInputs.cache
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\obj\Debug\TestCollAndString.csproj.CopyComplete
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\obj\Debug\TestDotNetCollection.exe
+C:\CSharp-Projects\FingerTree\Backup1\TestDotNetCollection\obj\Debug\TestDotNetCollection.pdb

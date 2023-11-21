@@ -1,0 +1,9 @@
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\bin\Debug\TestFT.exe
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\bin\Debug\TestFT.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\bin\Debug\FingerTree.dll
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\bin\Debug\FingerTree.pdb
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\obj\Debug\TestFT.csproj.AssemblyReference.cache
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\obj\Debug\TestFT.csproj.CoreCompileInputs.cache
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\obj\Debug\TestFT.csproj.CopyComplete
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\obj\Debug\TestFT.exe
+C:\CSharp-Projects\FingerTree\Backup1\TestFT\obj\Debug\TestFT.pdb

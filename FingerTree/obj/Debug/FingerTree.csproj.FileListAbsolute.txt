@@ -1,0 +1,6 @@
+C:\CSharp-Projects\FingerTree\Backup1\FingerTree\bin\Debug\FingerTree.dll
+C:\CSharp-Projects\FingerTree\Backup1\FingerTree\bin\Debug\FingerTree.pdb
+C:\CSharp-Projects\FingerTree\Backup1\FingerTree\obj\Debug\FingerTree.csproj.AssemblyReference.cache
+C:\CSharp-Projects\FingerTree\Backup1\FingerTree\obj\Debug\FingerTree.csproj.CoreCompileInputs.cache
+C:\CSharp-Projects\FingerTree\Backup1\FingerTree\obj\Debug\FingerTree.dll
+C:\CSharp-Projects\FingerTree\Backup1\FingerTree\obj\Debug\FingerTree.pdb
